@@ -1,4 +1,4 @@
-pour compiler mon projet il utiliser les commande :</br>
+pour compiler mon projet il utiliser les commande :
 mvn compile
 mvn package
 
